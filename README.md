@@ -13,6 +13,8 @@ Welcome to the **UX/UI Designer Challenges Repository!** This repository contain
 
 <details>
 <summary>Challenge 1: E-commerce Product Page</summary>
+
+
 - **Description:** 
   Design a visually appealing and user-friendly product page for an e-commerce website. The design should effectively showcase the product and encourage users to make a purchase.
 
@@ -40,8 +42,12 @@ Welcome to the **UX/UI Designer Challenges Repository!** This repository contain
 
 - **Final Considerations:**
   Aim for a balance between aesthetics and functionality. The design should enhance user experience while also driving conversions.
+  
 </details>
-### Challenge 2: Mobile App Onboarding Flow
+
+<details>
+<summary>Challenge 2: Mobile App Onboarding Flow</summary>
+
 - **Description:**
   Create a user onboarding flow for a mobile application, ensuring a smooth and engaging experience for new users. The flow should introduce the app's features and benefits effectively.
 
@@ -68,6 +74,7 @@ Welcome to the **UX/UI Designer Challenges Repository!** This repository contain
 
 - **Final Considerations:**
   The goal is to create an onboarding experience that not only informs users but also excites them about using the app.
+</details>
 
 ## Instructions for Candidates
 - Each challenge is designed to be completed in approximately **2 hours**. 
